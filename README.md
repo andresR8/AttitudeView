@@ -6,11 +6,11 @@ Android attitude view for drones, airplanes, rovs and mobile robots.
 
 ***
 
-### How to use it
+### How install it
 
 - Add [AttitudeView.java](https://github.com/andresR8/AttitudeView/blob/master/AttitudeView.java) to `src\main\java\package\`
-- Replace the [AttitudeView.java Line#1 ](https://github.com/antonio081014/ABatteryView/blob/master/Android/AttitudeView.java#L1) with corresponding package. `com.your.package` 
-- Add the content of [attrs_attitude_view.xml] (https://github.com/andresR8/AttitudeView/blob/master/attrs_attitude_view.xml) to `app\src\main\res\values\attrs.xml` file bwtween the <resources>HERE</resources> tag.
+- Replace the [AttitudeView.java Line #1 ](https://github.com/andresR8/AttitudeView/blob/master/AttitudeView.java#L1) with corresponding package. `com.your.package` 
+- Add the content of [attrs_attitude_view.xml] (https://github.com/andresR8/AttitudeView/blob/master/attrs_attitude_view.xml) to `app\src\main\res\values\attrs.xml` file between the resources tag `<resources>HERE</resources>`.
 
 ### How to Use it
 
