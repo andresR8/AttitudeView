@@ -1,0 +1,12 @@
+<declare-styleable name="AttitudeView">
+<attr name="backgroundC" format="color"/>
+<attr name="showM" format="boolean"/>
+<attr name="markerC" format="color"/>
+<attr name="lineC" format="color"/>
+<attr name="textC" format="color"/>
+<attr name="textS" format="dimension"/>
+<attr name="gradesPitch" format="integer"/>
+<attr name="gradesRoll" format="integer"/>
+<attr name="rangeGradesPitch" format="float"/>
+<attr name="rangeGradesRoll" format="float"/>
+</declare-styleable>
