@@ -1,4 +1,7 @@
 # Android - AttitudeView
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AttitudeView-brightgreen.svg)](https://android-arsenal.com/details/1/5161)
+
 Android attitude view for drones, airplanes, rovs and mobile robots.
 
 ### Demo
@@ -12,7 +15,7 @@ Android attitude view for drones, airplanes, rovs and mobile robots.
 - Replace the [AttitudeView.java Line #1 ](https://github.com/andresR8/AttitudeView/blob/master/AttitudeView.java#L1) with corresponding package. `com.your.package` 
 - Add the content of [attrs_attitude_view.xml] (https://github.com/andresR8/AttitudeView/blob/master/attrs_attitude_view.xml) to `app\src\main\res\values\attrs.xml` file between the resources tag `<resources>HERE</resources>`.
 
-### How to Use it
+### How to use it
 
 1. In XML File:
   1. In the root ViewGroup property of your layout, specify: `xmlns:custom="http://schemas.android.com/apk/res-auto"`;
